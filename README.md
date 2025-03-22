@@ -1,6 +1,6 @@
 # 22110399---PBO
-Tugas Pertemuan ke 2 dari Mata Kuliah Pemograman Berorientasi Object
+**Tugas Pertemuan ke 2 dari Mata Kuliah Pemrograman Berorientasi Objek**
 
-Nama    : Tian Sanjaya Junaedi
-Nim     : 22110399
-Kelas   : J2022
+**Nama**    : Tian Sanjaya Junaedi  
+**NIM**     : 22110399  
+**Kelas**   : J2022  
